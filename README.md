@@ -90,12 +90,3 @@ I'm building **AutoMail** – a Multi-Agent AI-Powered Mail Automation System th
   <img src="https://github-contributor-stats.vercel.app/api?username=AtharshKrishnamoorthy&limit=5&theme=react&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </div>
 
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://github.com/AtharshKrishnamoorthy/AtharshKrishnamoorthy/blob/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
----
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AtharshKrishnamoorthy&style=flat-square&color=blue" alt="Profile Views" />
-</div>
