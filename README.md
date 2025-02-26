@@ -1,7 +1,7 @@
 # <div align="center">👋 **Hello, I'm Atharsh K**</div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=2E98B2&center=true&vCenter=true&width=600&lines=AI+Engineer;LLM+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=2E98B2&center=true&vCenter=true&width=600&lines=AI+Engineer;;LLM+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -52,7 +52,6 @@ I'm building **AutoMail** – a Multi-Agent AI-Powered Mail Automation System th
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
@@ -86,6 +85,11 @@ I'm building **AutoMail** – a Multi-Agent AI-Powered Mail Automation System th
 ### 🔝 Top Contributed Repositories
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=AtharshKrishnamoorthy&limit=5&theme=react&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</div>
+
+## 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github.com/AtharshKrishnamoorthy/AtharshKrishnamoorthy/blob/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
