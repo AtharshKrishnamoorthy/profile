@@ -1,7 +1,7 @@
 # <div align="center">👋 **Hello, I'm Atharsh K**</div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=2E98B2&center=true&vCenter=true&width=600&lines=AI+Engineer;Multi-Agent+Systems+Developer;LLM+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=500&color=2E98B2&center=true&vCenter=true&width=600&lines=AI+Engineer;LLM+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -72,7 +72,6 @@ I'm building **AutoMail** – a Multi-Agent AI-Powered Mail Automation System th
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
 
 ## 📊 GitHub Stats
 
