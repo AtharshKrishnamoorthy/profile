@@ -18,6 +18,7 @@ I'm building **AutoMail** – a Multi-Agent AI-Powered Mail Automation System th
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/atharsh-k-569701256/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atharshkrishnamoorthy@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/AtharshKrish)
 
 ## 💻 Tech Stack
 
